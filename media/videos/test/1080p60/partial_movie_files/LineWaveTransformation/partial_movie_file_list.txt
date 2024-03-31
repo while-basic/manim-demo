@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/christophercelaya/Desktop/manim/media/videos/test/1080p60/partial_movie_files/LineWaveTransformation/3977891868_3324045641_905587201.mp4'
+file 'file:/Users/christophercelaya/Desktop/manim/media/videos/test/1080p60/partial_movie_files/LineWaveTransformation/2852726489_3890345977_3519349855.mp4'
+file 'file:/Users/christophercelaya/Desktop/manim/media/videos/test/1080p60/partial_movie_files/LineWaveTransformation/2852726489_3445362333_1962898565.mp4'
+file 'file:/Users/christophercelaya/Desktop/manim/media/videos/test/1080p60/partial_movie_files/LineWaveTransformation/2852726489_1141282389_1577896271.mp4'

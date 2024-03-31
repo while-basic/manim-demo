@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/christophercelaya/Desktop/manim/media/videos/test/1080p60/partial_movie_files/KnowledgeTransformation/3977891868_1758204548_223132457.mp4'
+file 'file:/Users/christophercelaya/Desktop/manim/media/videos/test/1080p60/partial_movie_files/KnowledgeTransformation/2852726489_3976073925_1345188519.mp4'
+file 'file:/Users/christophercelaya/Desktop/manim/media/videos/test/1080p60/partial_movie_files/KnowledgeTransformation/2852726489_3890345977_3484297162.mp4'
+file 'file:/Users/christophercelaya/Desktop/manim/media/videos/test/1080p60/partial_movie_files/KnowledgeTransformation/2852726489_1175183092_698527204.mp4'
+file 'file:/Users/christophercelaya/Desktop/manim/media/videos/test/1080p60/partial_movie_files/KnowledgeTransformation/2852726489_1141282389_2688516763.mp4'
+file 'file:/Users/christophercelaya/Desktop/manim/media/videos/test/1080p60/partial_movie_files/KnowledgeTransformation/2852726489_357643528_1558286543.mp4'
+file 'file:/Users/christophercelaya/Desktop/manim/media/videos/test/1080p60/partial_movie_files/KnowledgeTransformation/2852726489_1141282389_3809109032.mp4'
