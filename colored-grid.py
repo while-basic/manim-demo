@@ -4,7 +4,7 @@ import itertools
 class ColoredGrid(Scene):
     def construct(self):
         # Define the number of rows and columns in the grid
-        rows, cols = 8, 8
+        rows, cols = 4, 4
         
         # Define a list of colors to use
         colors = [
